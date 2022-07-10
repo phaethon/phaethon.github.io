@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
+* {
+    font-size: 14px;
+}
+
 body {
 	background-color: #F2EAE2;
 	color: hsla(228, 12%, 48%, 1);
 
 	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
 }
 
 main {
@@ -21,10 +24,12 @@ main {
 
 h1 {
 	font-family: 'Fraunces', serif;
+    font-weight: 700;
 	color:  hsla(212, 21%, 14%, 1);
 	margin-bottom: 1.1428rem;
 	margin-top: 0.8571rem;
 	font-size: 2.2857rem;
+    letter-spacing: 2px;
     line-height: 2.2857rem;
 }
 
