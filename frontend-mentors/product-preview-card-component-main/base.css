@@ -93,7 +93,7 @@ button > img {
 }
 
 .details {
-	padding:  1.7143rem;
+	padding: 1.7143rem;
 	box-sizing: border-box;
 }
 
@@ -103,6 +103,10 @@ button > img {
 		background-image: url(images/image-product-desktop.jpg);
 		height: auto;
 	}
+
+    .details {
+        padding: 2.2857rem;
+    }
 
 
 	main {
