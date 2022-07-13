@@ -57,7 +57,7 @@ footer > *:last-child {
 }
 
 button {
-	padding: 0.889rem 1.7778rem;
+	padding: 0.889rem 1.2rem;
 	border-width: 0;
 	border-radius: 1.5556rem;
 	font-size: 0.889rem;
@@ -281,7 +281,7 @@ main > * {
 	}
 
 	button {
-		width: 10rem;
+		width: 9.278rem;
 		font-size: 1rem;
 		line-height: 1.556rem;
 		border-radius: 1.75rem;
