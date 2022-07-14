@@ -85,6 +85,7 @@ a:hover {
 	align-items: center;
 	column-gap: 0.36rem;
 	margin-right: auto;
+    font-weight: 600;
 }
 
 .details-time {
