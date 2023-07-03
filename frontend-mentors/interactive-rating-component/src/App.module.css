@@ -1,0 +1,29 @@
+#root {
+}
+
+.frame {
+  margin: 11rem auto;
+  border-radius: 1.07rem;
+  background: var(--black-gradient, radial-gradient(98.96% 98.96% at 50.00% 0%, #232A34 0%, #181E27 100%));
+
+  width: 23.35rem;
+
+  padding: 1.71rem;
+}
+
+.thanks {
+  text-align: center;
+}
+
+.thanksImage {
+  margin: 0.714rem auto;
+  display: inline-block;
+  height: 108px;
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+

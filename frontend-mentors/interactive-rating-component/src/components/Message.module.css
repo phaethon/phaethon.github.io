@@ -1,0 +1,10 @@
+.message {
+  color: var(--color-primary);
+  padding: 5px 12px;
+  background-color: var(--color-dark-blue);
+  border-radius: 22.5px;
+}
+
+.messageBlock {
+  margin: 29px auto;
+}

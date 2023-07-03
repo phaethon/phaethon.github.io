@@ -1,0 +1,23 @@
+.circle {
+  border-style: none;
+  border-radius: 21px;
+  background-color: var(--color-dark-blue);
+  color: var(--color-medium-gray);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 42px;
+  height: 42px;
+}
+
+.hover:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.selected {
+  background-color: var(--color-medium-gray);
+  color: var(--color-white);
+}
