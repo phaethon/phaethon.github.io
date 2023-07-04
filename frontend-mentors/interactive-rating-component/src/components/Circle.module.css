@@ -1,6 +1,6 @@
 .circle {
   border-style: none;
-  border-radius: 21px;
+  border-radius: 1.5rem;
   background-color: var(--color-dark-blue);
   color: var(--color-medium-gray);
 
@@ -8,8 +8,8 @@
   justify-content: center;
   align-items: center;
 
-  width: 42px;
-  height: 42px;
+  width: 3rem;
+  height: 3rem;
 }
 
 .hover:hover {

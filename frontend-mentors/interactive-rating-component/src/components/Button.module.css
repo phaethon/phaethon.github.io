@@ -3,13 +3,13 @@
   background-color: var(--color-primary);
   color: var(--color-white);
   border-style: none;
-  border-radius: 22.5px;
-  padding: 12px;
+  border-radius: 1.607rem;
+  padding: 0.857rem;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 1.867px;
+  letter-spacing: 0.1333rem;
   line-height: normal;
-  font-size: 14px;
-  margin-bottom: 8px;
+  font-size: 1rem;
+  margin-bottom: 0.571rem;
   font-family: "Overpass", sans-serif;
 }
